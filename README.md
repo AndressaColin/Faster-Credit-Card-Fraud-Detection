@@ -1,4 +1,4 @@
-Credit Card Fraud Detection using Scikit-Learn and Snap ML
+# Credit Card Fraud Detection using Scikit-Learn and Snap ML
 **Introduction**
 
 Imagine that you work for a financial institution and part of your job is to build a model that predicts if a credit card transaction is fraudulent or not. You can model the problem as a binary classification problem. A transaction belongs to the positive class (1) if it is a fraud, otherwise it belongs to the negative class (0).
