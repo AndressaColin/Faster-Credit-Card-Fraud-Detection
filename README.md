@@ -1,4 +1,4 @@
-# Faster-Credit-Card-Fraud-Detection
+# Faster Credit Card-Fraud Detection
 
 **Introduction**
 
